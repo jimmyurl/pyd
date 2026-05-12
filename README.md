@@ -6,7 +6,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![TanStack Router](https://img.shields.io/badge/TanStack_Router-Hash_Mode-FF4154?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 > A youth-led NGO platform based in **Mwanza, Tanzania** — connecting ideas, skills and markets to enable sustainable livelihoods for youth and young mothers.
