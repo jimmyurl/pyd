@@ -185,6 +185,6 @@ Pull requests are welcome. For major changes please open an issue first to discu
 
 MIT © [Power of Youth Development](https://pyd.or.tz)
 
----
+
 
 <p align="center">Built with ❤️ in Mwanza, Tanzania</p>
