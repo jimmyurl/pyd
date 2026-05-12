@@ -11,7 +11,7 @@
 
 > A youth-led NGO platform based in **Mwanza, Tanzania** — connecting ideas, skills and markets to enable sustainable livelihoods for youth and young mothers.
 
----
+
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@
 - **Fully responsive** mobile-first design
 - **Framer Motion** animations throughout
 
----
+
 
 ## 🗂 Project Structure
 
@@ -64,7 +64,7 @@ empower-pathways-main/
 └── tsconfig.json
 ```
 
----
+
 
 ## 🚀 Getting Started
 
@@ -108,7 +108,7 @@ Output will be in `dist/` as a standard static site — just upload the contents
 npm run preview
 ```
 
----
+
 
 ## 🌐 Deployment (Shared Hosting / cPanel)
 
@@ -118,7 +118,7 @@ This app uses **hash-based routing** (`/#/about`, `/#/events`) so it works on an
 2. Upload the contents of the `dist/` folder to your `public_html` directory (or subdirectory)
 3. Done — no server configuration needed
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -137,7 +137,7 @@ This app uses **hash-based routing** (`/#/about`, `/#/events`) so it works on an
 | Icons | Lucide React |
 | Toasts | Sonner |
 
----
+
 
 ## 📋 Routes
 
@@ -152,7 +152,7 @@ This app uses **hash-based routing** (`/#/about`, `/#/events`) so it works on an
 | `/#/admin/login` | Admin login |
 | `/#/admin` | Protected admin dashboard |
 
----
+
 
 ## 🗃 Supabase Tables
 
@@ -162,7 +162,7 @@ This app uses **hash-based routing** (`/#/about`, `/#/events`) so it works on an
 | `programs` | Programme cards and details |
 | `contact_messages` | Contact form + RSVP submissions |
 
----
+
 
 ## 📸 Adding Events
 
