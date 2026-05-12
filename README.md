@@ -173,13 +173,13 @@ Events are currently managed as static data in `src/lib/events.ts`. To add a new
 3. Add a new entry to the `EVENTS` array following the existing structure
 4. Rebuild and deploy
 
----
+
 
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes please open an issue first to discuss what you'd like to change.
 
----
+
 
 ## 📄 License
 
